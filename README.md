@@ -1,4 +1,4 @@
-# Prettyfying unformated JSON String Using MicroNaut
+# Prettyfying unformated JSON String
 
 ## Packaged Mode
 ### Run `mvn package` from project root

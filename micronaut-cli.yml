@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.ramgopalcheedu
+---
+testFramework: junit
+sourceLanguage: java
